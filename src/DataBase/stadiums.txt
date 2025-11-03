@@ -1,0 +1,20 @@
+14#Dinamo#4x4#Mirzo Ulugbek#500000.0#SLOT1
+14#Dinamo#4x4#Mirzo Ulugbek#500000.0#SLOT2
+14#Dinamo#4x4#Mirzo Ulugbek#500000.0#SLOT3
+14#Dinamo#4x4#Mirzo Ulugbek#500000.0#SLOT4
+17#Jar Stadium#11x11#Chorsu#800000.0#SLOT1
+17#Jar Stadium#11x11#Chorsu#800000.0#SLOT2
+17#Jar Stadium#11x11#Chorsu#800000.0#SLOT3
+17#Jar Stadium#11x11#Chorsu#800000.0#SLOT4
+20#Kamolon#5x5#Milliy Bog#600000.0#SLOT1
+20#Kamolon#5x5#Milliy Bog#600000.0#SLOT2
+20#Kamolon#5x5#Milliy Bog#600000.0#SLOT3
+20#Kamolon#5x5#Milliy Bog#600000.0#SLOT4
+23#Paxtakor#4x4#Yakkasaroy#400000.0#SLOT1
+23#Paxtakor#4x4#Yakkasaroy#400000.0#SLOT2
+23#Paxtakor#4x4#Yakkasaroy#400000.0#SLOT3
+23#Paxtakor#4x4#Yakkasaroy#400000.0#SLOT4
+26#Bunyodkor#11x11#Mirzo Ulugber M#1.0E7#SLOT1
+26#Bunyodkor#11x11#Mirzo Ulugber M#1.0E7#SLOT2
+26#Bunyodkor#11x11#Mirzo Ulugber M#1.0E7#SLOT3
+26#Bunyodkor#11x11#Mirzo Ulugber M#1.0E7#SLOT4
