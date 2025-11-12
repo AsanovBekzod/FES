@@ -17,17 +17,6 @@ public class Main {
 
         mainController.MainMenu();
 
-        /*for (StadiumDTO stadium : service.getStadiums()) {
-            System.out.println(stadium);
-        }
-
-        System.out.println("\n\n\n");
-
-        for (StadiumDTO emptyStadium : service.getEmptyStadiums()) {
-            System.out.println(emptyStadium);
-        }*/
-
-
 
     }
 }
